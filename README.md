@@ -13,6 +13,9 @@ Dei início a faculdade de Sistemas de informação no meio de 2022 e atualmente
 *   🧠  Venho aprendendo Sql Server | C# | PostgreSql
 
 
+<a href="https://www.github.com/fabiojr0" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/fabiojr0?logo=github&style=for-the-badge&color=000000&labelColor=1c1917" /></a>
+
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
@@ -26,3 +29,13 @@ Dei início a faculdade de Sistemas de informação no meio de 2022 e atualmente
 </p>
 
 <a href="https://github.com/fabiojr0" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiojr0&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+<b>Top Repositories</b>
+
+<div width="100%" align="center"><a href="https://github.com/fabiojr0/Meu-Portifolio" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=fabiojr0&repo=Meu-Portifolio&title_color=000000&text_color=ffffff&icon_color=000000&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/fabiojr0/Jogo-da-Velha" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=fabiojr0&repo=Jogo-da-Velha&title_color=000000&text_color=ffffff&icon_color=000000&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+
+<br /><br /><br /><br /><br />
+
+<div width="100%" align="center"><a href="https://github.com/fabiojr0/Site-de-Raposas" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=fabiojr0&repo=Site-de-Raposas&title_color=000000&text_color=ffffff&icon_color=000000&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/fabiojr0/Tela-de-Formularios" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=fabiojr0&repo=Tela-de-Formularios&title_color=000000&text_color=ffffff&icon_color=000000&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+
+
