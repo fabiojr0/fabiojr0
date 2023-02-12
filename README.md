@@ -33,13 +33,3 @@ src="https://img.shields.io/github/followers/fabiojr0?logo=github&style=for-the-
 
 
 ---
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/fabiojr0/Meu-Portifolio" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=fabiojr0&repo=Meu-Portifolio&title_color=000000&text_color=ffffff&icon_color=000000&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/fabiojr0/Jogo-da-Velha" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=fabiojr0&repo=Jogo-da-Velha&title_color=000000&text_color=ffffff&icon_color=000000&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<br /><br /><br /><br /><br />
-
-<div width="100%" align="center"><a href="https://github.com/fabiojr0/Site-de-Raposas" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=fabiojr0&repo=Site-de-Raposas&title_color=000000&text_color=ffffff&icon_color=000000&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/fabiojr0/Tela-de-Formularios" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=fabiojr0&repo=Tela-de-Formularios&title_color=000000&text_color=ffffff&icon_color=000000&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
-
-
