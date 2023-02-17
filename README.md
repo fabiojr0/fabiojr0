@@ -9,8 +9,6 @@ Dei início a faculdade de Sistemas de informação no meio de 2022 e atualmente
 *   🌍  Moro em Niterói-RJ
 *   🖥️  [Meu Portifólio](http://portifolio.fabiojunior18.repl.co/)
 *   ✉️  Email para contato [dev.fabio.junior@gmail.com](mailto:dev.fabio.junior@gmail.com)
-*   🚀  Estou estagiando atualmente na [4CDigital](http://www.4cdigital.com.br/)
-*   🧠  Venho aprendendo Sql Server | C# | PostgreSql
 
 
 <a href="https://www.github.com/fabiojr0" target="_blank" rel="noreferrer"><img
