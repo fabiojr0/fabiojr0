@@ -7,7 +7,7 @@ Desenvolvedor Full-Stack
 Dei início a faculdade de Sistemas de informação no meio de 2022 e atualmente estou no segundo período, venho gostando muito muito da área e tento aprender ao máximo sempre que posso!
 
 *   🌍  Moro em Niterói-RJ
-*   🖥️  [Meu Portifólio](https://fabiojr0.github.io/Portifolio-Atual/)
+*   🖥️  [Meu Portifólio](https://fabiojr0.github.io/Portifolio/)
 *   ✉️  Email para contato [dev.fabio.junior@gmail.com](mailto:dev.fabio.junior@gmail.com)
 
 
