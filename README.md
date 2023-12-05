@@ -13,8 +13,6 @@ Dei início a faculdade de Sistemas de informação no meio de 2022 e atualmente
 <br/>
 <div align="center">
   
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=fabiojr0&theme=dark&hide_border=false) 
- 
 <br/>
 
 ![My Skills](https://skillicons.dev/icons?i=react,tailwindcss,js,html,css,figma,java,cs,nodejs,py,mongodb,mysql)
