@@ -11,19 +11,19 @@ Dei início a faculdade de Sistemas de informação no meio de 2022 e atualmente
 *   ✉️  Email para contato [dev.fabio.junior@gmail.com](mailto:dev.fabio.junior@gmail.com)
 
 <br/>
+
+
 <div align="center">
   
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fabiojr0&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  
+  <img src="https://streak-stats.demolab.com?user=fabiojr0&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+<br/>
+
+
 <br/>
 
 ![My Skills](https://skillicons.dev/icons?i=react,tailwindcss,js,html,css,figma,java,cs,nodejs,py,mongodb,mysql)
-
-<br/>
-
----
-
-<br/>
-
-<a href="https://github.com/fabiojr0" ><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiojr0&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages"/></a>
 
 </div>
 
