@@ -1,17 +1,18 @@
-Olá ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Meu nome é Fábio Júnior
-====================================================================================================================================
-
-Desenvolvedor Full-Stack
+Fábio Júnior → Front-End Developer
 ------------------------
 
-Dei início a faculdade de Sistemas de informação no meio de 2022 e atualmente estou no segundo período, venho gostando muito muito da área e tento aprender ao máximo sempre que posso!
+```javascript
 
-*   🌍  Moro em Niterói-RJ
-*   🖥️  [Meu Portifólio](https://fabiojr0.github.io/Portifolio/)
-*   ✉️  Email para contato [dev.fabio.junior@gmail.com](mailto:dev.fabio.junior@gmail.com)
+const place = "Niterói-RJ, Brasil"
 
+const portifolio = "https://fabiojr0.github.io/Portifolio/"
+
+const email = "dev.fabio.junior@gmail.com"
+
+const skills = ["React","Tailwindcss","Typescript","Javascript","HTML","CSS","Figma","Java","C#","NodeJS","Python","MySQL"]
+
+```
 <br/>
-
 
 <div align="center">
   
@@ -23,7 +24,9 @@ Dei início a faculdade de Sistemas de informação no meio de 2022 e atualmente
 
 <br/>
 
-![My Skills](https://skillicons.dev/icons?i=react,tailwindcss,js,html,css,figma,java,cs,nodejs,py,mongodb,mysql)
+
+
+![My Skills](https://skillicons.dev/icons?i=react,tailwindcss,typescript,js,html,css,figma,java,nodejs,py,cs,mongodb,mysql)
 
 </div>
 
