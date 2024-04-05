@@ -5,7 +5,7 @@ Fábio Júnior → Front-End Developer
 
 const place = "Niterói-RJ, Brasil"
 
-const portifolio = "https://fabiojr0.github.io/Portifolio/"
+const portifolio = "https://fbportifolio.vercel.app/"
 
 const email = "dev.fabio.junior@gmail.com"
 
