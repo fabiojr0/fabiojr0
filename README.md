@@ -9,7 +9,7 @@ const portifolio = "https://fbportifolio.vercel.app/"
 
 const email = "dev.fabio.junior@gmail.com"
 
-const skills = ["React","Tailwindcss","Typescript","Javascript","HTML","CSS","Figma","Java","C#","NodeJS","Python","MySQL"]
+let skills = ["React","Tailwindcss","Typescript","Javascript","React Native","HTML","CSS","Figma","Java","C#","NodeJS","Python","MySQL"]
 
 ```
 <br/>
