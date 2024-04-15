@@ -24,7 +24,7 @@ const email = "dev.fabio.junior@gmail.com"
 
 
 
-![My Skills](https://skillicons.dev/icons?i=react,tailwindcss,typescript,js,html,css,figma,java,nodejs,php,laravel,py,cs,mongodb,mysql)
+![My Skills](https://skillicons.dev/icons?i=react,tailwindcss,typescript,js,html,css,java,nodejs,php,laravel,py,cs,mysql)
 
 </div>
 
