@@ -1,4 +1,4 @@
-Fábio Júnior → Front-End Developer
+Fábio Júnior → Full-Stack Developer
 ------------------------
 
 ```javascript
@@ -9,7 +9,7 @@ const portifolio = "https://fbportifolio.vercel.app/"
 
 const email = "dev.fabio.junior@gmail.com"
 
-let skills = ["React","Tailwindcss","Typescript","Javascript","HTML","CSS","Figma","Java","C#","NodeJS","Python","MySQL"]
+let skills = ["React","Tailwindcss","Typescript","Javascript","HTML","CSS","Figma","Java","C#","NodeJS","Python","MySQL", "PHP", "Lavavel", "Filament"]
 
 ```
 <br/>
