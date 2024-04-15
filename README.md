@@ -9,9 +9,6 @@ const portifolio = "https://fbportifolio.vercel.app/"
 
 const email = "dev.fabio.junior@gmail.com"
 
-let skills = ["React","Tailwindcss","Typescript","Javascript","HTML","CSS","Figma"
-              ,"Java","C#","NodeJS","Python","MySQL", "PHP", "Lavavel", "Filament"]
-
 ```
 <br/>
 
@@ -27,7 +24,7 @@ let skills = ["React","Tailwindcss","Typescript","Javascript","HTML","CSS","Figm
 
 
 
-![My Skills](https://skillicons.dev/icons?i=react,tailwindcss,typescript,js,html,css,figma,java,nodejs,py,cs,mongodb,mysql)
+![My Skills](https://skillicons.dev/icons?i=react,tailwindcss,typescript,js,html,css,figma,java,nodejs,php,laravel,py,cs,mongodb,mysql)
 
 </div>
 
