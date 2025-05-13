@@ -10,15 +10,18 @@ const portifolio = "https://fbportifolio.vercel.app/"
 const email = "dev.fabio.junior@gmail.com"
 
 ```
-<br/>
-
-<div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=fabiojr0&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fabiojr0&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
-
-###
-
+<br/> 
+<div align="center"> 
+  <picture>
+    <source media="(prefers-color-scheme: dark)" width="420px" srcset="https://github-readme-streak-stats-matipl01.vercel.app/?user=fabiojr0&background=0d1117&border=0d1117&ring=9b59b6&fire=fff&currStreakNum=fff&sideNums=9b59b6&currStreakLabel=9b59b6&sideLabels=eee&dates=bbb" /> 
+    <img width="420px" alt="Github Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=fabiojr0&ring=9b59b6&fire=9b59b6&currStreakNum=9b59b6&sideNums=9b59b6&currStreakLabel=9b59b6&sideLabels=6e6e6e&dates=999&hide_border=true" />
+  </picture>
+  <img width="420px" alt="Github Stats" src="https://github-readme-stats-matipl01.vercel.app/api?username=fabiojr0&count_private=true&show_icons=true&title_color=9b59b6&icon_color=9b59b6&bg_color=60,0d1117,0d1117&hide_border=true&text_color=ffffff&border_radius=5"/>
+  <br> 
+  <picture> 
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=fabiojr0&bg_color=0d1117&color=c39bd3&line=9b59b6&point=fff&hide_border=true&custom_title=Activity%20Chart" /> 
+    <img alt="Activity chart" src="https://github-readme-activity-graph.cyclic.app/graph?username=fabiojr0&bg_color=fefefe&color=7d3c98&line=9b59b6&point=8e44ad&hide_border=true&custom_title=Activity%20Chart" /> 
+  </picture>
 <br/>
 
 
